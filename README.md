@@ -1,1 +1,2 @@
-# Lush-Effects
+# Lush-Effects webpage
+course project
